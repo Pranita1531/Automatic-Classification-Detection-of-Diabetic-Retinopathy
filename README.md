@@ -1,1 +1,1 @@
-# Automatic-Classification-Detection-of-Diabetic-Retinopathy
+In this project we implemented a system which predicts if there is Diabetic Retinopathy present or not. The System takes an image of retina as an input and predicts whether the retina is affected by Diabetic Retinopathy in five different stages.
